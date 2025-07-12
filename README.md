@@ -2,7 +2,7 @@
 - 👀 I’m interested in Algorithmic Trading
 - 🌱 I’m currently learning Alpaca Trading API
 - 💞️ I’m looking to collaborate on anything. 
-- 📫 How to reach me georgestephens679@gmail.com
+- 📫 How to reach me george.james.stephensgmail.com
 - ⚡ Fun fact: Octopuses have three hearts and blue blood!
 
 <!---
